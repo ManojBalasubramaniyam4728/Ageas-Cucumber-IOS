@@ -1,0 +1,117 @@
+2024-01-17 18:48:33,308 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:48:35,081 - Ageas IOS - INFO - WiFi Button Element Is Having Expected Settings Text
+2024-01-17 18:48:39,723 - Ageas IOS - INFO - Successfully Taped On WiFi Button
+2024-01-17 18:48:41,140 - Ageas IOS - INFO - WiFi Text Element Is Having Expected Wi‑Fi Text
+2024-01-17 18:48:46,841 - Ageas IOS - INFO - Successfully Taped On More Info Icon
+2024-01-17 18:48:48,026 - Ageas IOS - INFO - Element Proxy Off Toggle Button Is in Off
+2024-01-17 18:48:49,831 - Ageas IOS - INFO - Successfully Clicked On Configure Proxy Button
+2024-01-17 18:48:50,293 - Ageas IOS - INFO - Configure Proxy Text Element Is Having Expected Configure Proxy Text
+2024-01-17 18:48:52,242 - Ageas IOS - INFO - Successfully Taped On Manual Button
+2024-01-17 18:48:54,815 - Ageas IOS - INFO - Successfully Cleared Text In Server Textfield And Entred 46.4.96.137 Into Server Textfield
+2024-01-17 18:48:57,492 - Ageas IOS - INFO - Successfully Cleared Text In Server Textfield And Entred 1080 Into Server Textfield
+2024-01-17 18:49:00,230 - Ageas IOS - INFO - Successfully Taped On Save Button
+2024-01-17 18:49:00,231 - Ageas IOS - INFO - Successfully Setted The Proxy
+2024-01-17 18:49:01,385 - Ageas IOS - INFO - ******************* Setting Application Closed Successfully *******************
+2024-01-17 18:49:07,924 - Ageas IOS - INFO - ******************* Ageas Application Opened Successfully *******************
+2024-01-17 18:49:11,180 - Ageas IOS - INFO - [Proxy Network Identified] Pop-Up Is Present In Ageas Screen
+2024-01-17 18:49:11,507 - Ageas IOS - INFO - Successfully written [Proxy Network Identified] Pop-Up Into Excel
+2024-01-17 18:49:12,590 - Ageas IOS - INFO - Proxy Network header is Present in the Ageas true
+2024-01-17 18:49:13,899 - Ageas IOS - INFO - Proxy Network header Boday is Present in the Ageas true
+2024-01-17 18:49:15,001 - Ageas IOS - INFO - ******************* Ageas Application Closed Successfully *******************
+2024-01-17 18:49:19,834 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:49:21,579 - Ageas IOS - INFO - WiFi Button Element Is Having Expected Settings Text
+2024-01-17 18:49:28,524 - Ageas IOS - INFO - Successfully Taped On WiFi Button
+2024-01-17 18:49:29,243 - Ageas IOS - INFO - WiFi Text Element Is Having Expected Wi‑Fi Text
+2024-01-17 18:49:33,097 - Ageas IOS - INFO - Successfully Taped On More Info Icon
+2024-01-17 18:49:34,289 - Ageas IOS - INFO - Element Proxy Manual Toggle Button Is in On
+2024-01-17 18:49:35,900 - Ageas IOS - INFO - Successfully Clicked On Configure Proxy Button
+2024-01-17 18:49:36,439 - Ageas IOS - INFO - Configure Proxy Text Element Is Having Expected Configure Proxy Text
+2024-01-17 18:49:38,187 - Ageas IOS - INFO - Successfully Taped On Off Button
+2024-01-17 18:49:39,811 - Ageas IOS - INFO - Successfully Taped On Save Button
+2024-01-17 18:49:39,812 - Ageas IOS - INFO - Successfully Turned Off The Proxy
+2024-01-17 18:49:40,930 - Ageas IOS - INFO - ******************* Setting Application Closed Successfully *******************
+2024-01-17 18:49:45,188 - Ageas IOS - INFO - ******************* Ageas Application Opened Successfully *******************
+2024-01-17 18:49:46,515 - Ageas IOS - INFO - Welcome  Element Is Having Expected Welcome Text
+2024-01-17 18:50:07,325 - Ageas IOS - INFO - [] Pop-Up Is Not Present In Ageas Screen
+2024-01-17 18:50:08,448 - Ageas IOS - INFO - ******************* Ageas Application Closed Successfully *******************
+2024-01-17 18:50:13,651 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:50:16,226 - Ageas IOS - INFO - WiFi Button Element Is Having Expected Settings Text
+2024-01-17 18:50:19,239 - Ageas IOS - INFO - Successfully Clicked On General Icon Button
+2024-01-17 18:50:20,035 - Ageas IOS - INFO - General Element Is Having Expected General Text
+2024-01-17 18:50:21,568 - Ageas IOS - INFO - Successfully Clicked On Managed Configuration List Button Button
+2024-01-17 18:50:22,170 - Ageas IOS - INFO - Vpn And Device Management Element Is Having Expected VPN & Device Management Text
+2024-01-17 18:50:22,573 - Ageas IOS - INFO - Successfully Featched Not Connected Text From VPN Status Element
+2024-01-17 18:50:22,573 - Ageas IOS - INFO - Not Connected Is Equals Not Connected
+2024-01-17 18:50:24,300 - Ageas IOS - INFO - Successfully Tapped On VPN Status Element
+2024-01-17 18:50:27,516 - Ageas IOS - INFO - VPN Element Is Having Expected VPN Text
+2024-01-17 18:50:28,746 - Ageas IOS - INFO - Successfully Clicked On VPN Status Toggle Button Element
+2024-01-17 18:50:29,984 - Ageas IOS - INFO - ******************* Setting Application Closed Successfully *******************
+2024-01-17 18:50:34,079 - Ageas IOS - INFO - ******************* Ageas Application Opened Successfully *******************
+2024-01-17 18:50:39,009 - Ageas IOS - INFO - [VPN Network Identified] Pop-Up Is Present In Ageas Screen
+2024-01-17 18:50:39,154 - Ageas IOS - INFO - Successfully written [VPN Network Identified] Pop-Up Into Excel
+2024-01-17 18:50:39,959 - Ageas IOS - INFO - VPN Network header is Present in the Ageas true
+2024-01-17 18:50:40,858 - Ageas IOS - INFO - VPN Network header Boday is Present in the Ageas true
+2024-01-17 18:50:42,075 - Ageas IOS - INFO - ******************* Ageas Application Closed Successfully *******************
+2024-01-17 18:50:48,625 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:50:51,626 - Ageas IOS - INFO - Successfully Clicked On General Icon Button
+2024-01-17 18:50:52,627 - Ageas IOS - INFO - General Element Is Having Expected General Text
+2024-01-17 18:50:54,120 - Ageas IOS - INFO - Successfully Clicked On Managed Configuration List Button Button
+2024-01-17 18:50:55,596 - Ageas IOS - INFO - Vpn And Device Management Element Is Having Expected VPN & Device Management Text
+2024-01-17 18:50:56,145 - Ageas IOS - INFO - Successfully Featched Connected Text From VPN Status Element
+2024-01-17 18:50:56,146 - Ageas IOS - INFO - Connected Is Equals Connected
+2024-01-17 18:50:57,794 - Ageas IOS - INFO - Successfully Tapped On VPN Status Element
+2024-01-17 18:50:58,207 - Ageas IOS - INFO - VPN Element Is Having Expected VPN Text
+2024-01-17 18:51:00,166 - Ageas IOS - INFO - Successfully Turned Off VPN
+2024-01-17 18:51:01,315 - Ageas IOS - INFO - ******************* Setting Application Closed Successfully *******************
+2024-01-17 18:51:05,616 - Ageas IOS - INFO - ******************* Ageas Application Opened Successfully *******************
+2024-01-17 18:51:06,607 - Ageas IOS - INFO - Welcome  Element Is Having Expected Welcome Text
+2024-01-17 18:51:27,788 - Ageas IOS - INFO - [] Pop-Up Is Not Present In Ageas Screen
+2024-01-17 18:51:29,129 - Ageas IOS - INFO - ******************* Ageas Application Closed Successfully *******************
+2024-01-17 18:51:36,223 - Ageas IOS - INFO - ******************* Ageas Application Opened Successfully *******************
+2024-01-17 18:51:37,658 - Ageas IOS - INFO - Mett Button Element Is Having Expected Navigation menu Text
+2024-01-17 18:51:39,964 - Ageas IOS - INFO - Successfully Tapped On Mett Button Element
+2024-01-17 18:51:40,454 - Ageas IOS - INFO - New Metting Button Element Is Having Expected Meet Text
+2024-01-17 18:51:44,413 - Ageas IOS - INFO - Successfully Tapped On New Metting Button Element
+2024-01-17 18:51:46,517 - Ageas IOS - INFO - Instant Meeting Button Element Is Having Expected Start an instant meeting Text
+2024-01-17 18:51:48,649 - Ageas IOS - INFO - Successfully Tapped On Instant Meeting Button Element
+2024-01-17 18:51:50,209 - Ageas IOS - INFO - Successfully Tapped On Options Button Element
+2024-01-17 18:51:52,291 - Ageas IOS - INFO - Share Screen Button Element Is Having Expected Share screen Text
+2024-01-17 18:51:55,577 - Ageas IOS - INFO - Successfully Tapped On Share Screen Button Element
+2024-01-17 18:51:56,065 - Ageas IOS - INFO - Present To Everyone Text Element Is Having Expected Present to everyone Text
+2024-01-17 18:51:58,248 - Ageas IOS - INFO - Successfully Tapped On Continue Button Element
+2024-01-17 18:51:59,330 - Ageas IOS - INFO - Statt Broadcast Button Element Is Having Expected Start Broadcast Text
+2024-01-17 18:52:02,643 - Ageas IOS - INFO - Successfully Tapped On Statt Broadcast Button Element
+2024-01-17 18:52:24,082 - Ageas IOS - INFO - Successfully Navigated To Home screen
+2024-01-17 18:52:28,215 - Ageas IOS - INFO - Successfully Waited Untill visibility Of Meeting Lobby Button Element
+2024-01-17 18:52:28,881 - Ageas IOS - INFO - Successfully Navigated To Home screen
+2024-01-17 18:52:28,882 - Ageas IOS - INFO - Successfully Shreared The Screen
+2024-01-17 18:52:30,026 - Ageas IOS - INFO - ******************* Gmail Application Closed Successfully *******************
+2024-01-17 18:52:33,760 - Ageas IOS - INFO - ******************* Ageas Application Opened Successfully *******************
+2024-01-17 18:52:36,924 - Ageas IOS - INFO - true is Equale to true
+2024-01-17 18:52:40,198 - Ageas IOS - INFO - Successfully Tapped On Ok Button Element
+2024-01-17 18:52:42,967 - Ageas IOS - INFO - [Screen Mirroring Identified] Pop-Up Is Present In Ageas Screen
+2024-01-17 18:52:43,129 - Ageas IOS - INFO - Successfully written [Screen Mirroring Identified] Pop-Up Into Excel
+2024-01-17 18:52:43,792 - Ageas IOS - INFO - Screen Mirroring Identified Text Result header is Present in the Ageas true
+2024-01-17 18:52:45,207 - Ageas IOS - INFO - Screen Mirroring Identified Boday is Present in the Ageas true
+2024-01-17 18:52:46,492 - Ageas IOS - INFO - ******************* Ageas Application Closed Successfully *******************
+2024-01-17 18:52:50,282 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:52:51,773 - Ageas IOS - INFO - Successfully Captured Screenshot Of The AG003 Verify screen mirroring popup And Strored In Screenshots Floder
+2024-01-17 18:52:51,774 - Ageas IOS - INFO - It Is Screen Mirroring No Need Of Turn Off
+2024-01-17 18:52:54,901 - Ageas IOS - INFO - ******************* Application Closedr Closed Successfully *******************
+2024-01-17 18:56:22,124 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:56:24,430 - Ageas IOS - INFO - WiFi Button Element Is Having Expected Settings Text
+2024-01-17 18:56:31,146 - Ageas IOS - INFO - Successfully Taped On WiFi Button
+2024-01-17 18:56:32,403 - Ageas IOS - INFO - WiFi Text Element Is Having Expected Wi‑Fi Text
+2024-01-17 18:56:35,744 - Ageas IOS - INFO - Successfully Taped On More Info Icon
+2024-01-17 18:56:36,884 - Ageas IOS - INFO - Element Proxy Off Toggle Button Is in Off
+2024-01-17 18:56:38,621 - Ageas IOS - INFO - Successfully Clicked On Configure Proxy Button
+2024-01-17 18:56:38,993 - Ageas IOS - INFO - Configure Proxy Text Element Is Having Expected Configure Proxy Text
+2024-01-17 18:56:40,701 - Ageas IOS - INFO - Successfully Taped On Manual Button
+2024-01-17 18:56:43,052 - Ageas IOS - INFO - Successfully Cleared Text In Server Textfield And Entred 46.4.96.137 Into Server Textfield
+2024-01-17 18:56:45,985 - Ageas IOS - INFO - Successfully Cleared Text In Server Textfield And Entred 1080 Into Server Textfield
+2024-01-17 18:56:49,786 - Ageas IOS - INFO - Successfully Taped On Save Button
+2024-01-17 18:56:49,786 - Ageas IOS - INFO - Successfully Setted The Proxy
+2024-01-17 18:56:51,005 - Ageas IOS - INFO - ******************* Setting Application Closed Successfully *******************
+2024-01-17 18:56:56,914 - Ageas IOS - INFO - Successfully Captured Screenshot Of The AG001 Verify proxy checks And Strored In Screenshots Floder
+2024-01-17 18:57:02,812 - Ageas IOS - INFO - ******************* Settings Application Opened Successfully *******************
+2024-01-17 18:57:06,041 - Ageas IOS - INFO - WiFi Button Element Is Having Expected Settings Text
